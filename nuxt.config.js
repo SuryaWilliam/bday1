@@ -32,6 +32,8 @@ export default {
   plugins: [
   ],
 
+  target: 'static',
+
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
 
